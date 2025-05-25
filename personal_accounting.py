@@ -224,7 +224,7 @@ def main():
     
     while True:
         print("\n=== 我的記帳小幫手 ===")
-        print("1.  我要記帳")
+        print("1. 我要記帳")
         print("2. 查一下帳")
         print("3. 錢都花去哪了")
         print("4. 設定預算目標")
